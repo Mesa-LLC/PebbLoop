@@ -1,0 +1,23 @@
+{
+  "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "shortName": "PebbLoop",
+  "longName": "PebbLoop",
+  "companyName": "Dimitrios Vlachos",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt", "emery"],
+  "watchapp": { "watchface": false },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "type": "bitmap",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png",
+        "menuIcon": true
+      }
+    ]
+  },
+  "capabilities": []
+}
